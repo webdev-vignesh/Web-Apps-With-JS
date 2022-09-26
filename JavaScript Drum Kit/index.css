@@ -1,0 +1,22 @@
+html {
+    background-image: url(./background.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.keys{
+    display: flex;
+    flex: 1;
+    min-height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.key{
+    
+}
+
+.sound{
+
+}
+
